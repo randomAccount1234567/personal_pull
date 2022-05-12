@@ -1,3 +1,0 @@
-hello i am mac
-
-Add develop ver 1.0.0
