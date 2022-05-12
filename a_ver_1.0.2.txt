@@ -9,3 +9,5 @@ commit 1
 commit 2
 
 commit 3
+
+맥최신화 모르고, 걍 일단 윈도우에서 수정해봄
